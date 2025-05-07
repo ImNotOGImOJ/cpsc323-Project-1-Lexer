@@ -1,0 +1,9 @@
+if (a >= b)
+{
+	return 0;
+} //check if a is greater than or equal to b
+
+else {
+	return 1;	//could have been just return "a >= b" but ok
+}
+//program end
